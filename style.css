@@ -222,3 +222,7 @@ h1 {
 .thred-div {
     margin-left: 60px;;
 }
+
+#hacathon_parent_div {
+    display: none;
+}
